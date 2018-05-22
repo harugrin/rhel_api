@@ -1,0 +1,11 @@
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\bin\Debug\netcoreapp2.0\RHELApi.deps.json
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\bin\Debug\netcoreapp2.0\RHELApi.runtimeconfig.json
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\bin\Debug\netcoreapp2.0\RHELApi.runtimeconfig.dev.json
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\bin\Debug\netcoreapp2.0\RHELApi.dll
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\bin\Debug\netcoreapp2.0\RHELApi.pdb
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\obj\Debug\netcoreapp2.0\RHELApi.csprojResolveAssemblyReference.cache
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\obj\Debug\netcoreapp2.0\RHELApi.csproj.CoreCompileInputs.cache
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\obj\Debug\netcoreapp2.0\RHELApi.AssemblyInfoInputs.cache
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\obj\Debug\netcoreapp2.0\RHELApi.AssemblyInfo.cs
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\obj\Debug\netcoreapp2.0\RHELApi.dll
+C:\Users\lc5553408\source\repos\RHELApi\RHELApi\obj\Debug\netcoreapp2.0\RHELApi.pdb

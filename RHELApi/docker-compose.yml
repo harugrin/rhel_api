@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  rhelapi:
+    image: rhelapi
+    build:
+      context: .
+      dockerfile: RHELApi/Dockerfile
